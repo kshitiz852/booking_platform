@@ -1,5 +1,7 @@
 flask
 flask_sqlalchemy
 authlib
-
+requests
 werkzeug
+gunicorn
+
